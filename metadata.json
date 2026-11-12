@@ -1,0 +1,6 @@
+{
+  "name": "GameTactics",
+  "description": "A community gaming app to discover, share, and discuss gameplay tricks, level clearance walkthroughs, and boss strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
